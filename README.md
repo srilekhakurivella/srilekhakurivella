@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srilekhakurivella
 - 👀 I’m interested in ASP.NET, Microsoft SQL server
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ASP.NET Core
 - 📫 How to reach me +1 (571) 491 7654 or srilekhak95@gmail.com
 
 <!---
